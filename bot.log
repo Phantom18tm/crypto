@@ -1,0 +1,34 @@
+2026-04-03 19:04:00,796 - INFO - Market Order Success: {'orderId': 13020204476, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa02f6eda4a8dda8df72d0a', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0050', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1775223240763}
+2026-04-03 19:04:14,623 - INFO - Limit Order Success: {'orderId': 13020204618, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd16697745f607e7a02ba9c', 'price': '65000.00', 'avgPrice': '0.00', 'origQty': '0.0050', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1775223254579}
+2026-04-03 19:09:22,513 - ERROR - Side must be BUY or SELL
+2026-04-03 19:09:50,794 - INFO - Market Order Success: {'orderId': 13020207408, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ5f7c076c57bafee09ac516', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.0020', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1775223590763}
+2026-04-03 19:14:23,654 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:14:23,654 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:14:29,498 - ERROR - Order type must be MARKETVALUE or LIMITVALUE
+2026-04-03 19:15:13,132 - ERROR - Order type must be MARKETVALUE or LIMITVALUE
+2026-04-03 19:15:19,244 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:15:19,244 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:16:34,112 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:16:34,113 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:17:28,386 - ERROR - 'Namespace' object has no attribute 'symbol'
+2026-04-03 19:18:00,041 - ERROR - 'Namespace' object has no attribute 'symbol'
+2026-04-03 19:20:30,765 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:20:30,765 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:22:33,014 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'type' was not sent, was empty/null, or malformed.
+2026-04-03 19:22:33,014 - ERROR - APIError(code=-1102): Mandatory parameter 'type' was not sent, was empty/null, or malformed.
+2026-04-03 19:26:32,636 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'type' was not sent, was empty/null, or malformed.
+2026-04-03 19:26:32,637 - ERROR - APIError(code=-1102): Mandatory parameter 'type' was not sent, was empty/null, or malformed.
+2026-04-03 19:34:58,916 - ERROR - 'Namespace' object has no attribute 'symbol'
+2026-04-03 19:43:17,375 - ERROR - 'Namespace' object has no attribute 'symbol'
+2026-04-03 19:45:10,325 - ERROR - Limit Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-03 19:45:10,325 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-03 19:46:45,965 - ERROR - Limit Order Failed: APIError(code=-1121): Invalid symbol.
+2026-04-03 19:46:45,965 - ERROR - APIError(code=-1121): Invalid symbol.
+2026-04-03 19:48:45,256 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:48:45,256 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:50:12,505 - ERROR - Limit Order Failed: APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:50:12,505 - ERROR - APIError(code=-1102): Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+2026-04-03 19:50:23,462 - ERROR - Price is required for LIMIT orders
+2026-04-03 19:51:54,600 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2026-04-03 19:51:54,601 - ERROR - APIError(code=-2019): Margin is insufficient.
+2026-04-03 20:02:38,091 - INFO - Market Order Success: {'orderId': 13020235991, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf760f6df97b164ef28ff57', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.0020', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1775226758113}
