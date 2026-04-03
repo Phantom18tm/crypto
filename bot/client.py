@@ -12,9 +12,9 @@ def get_client():
 
     return client
 
-# code Test
+## code Test
 # if __name__ == "__main__":
 #     client = get_client()
-#     print("Client created successfully ✅")
+#     print("Client created successfully")
 
     

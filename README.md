@@ -1,8 +1,5 @@
-# Trading Bot (Binance Futures Testnet)
 
-This is a simple Python trading bot that can place MARKET and LIMIT orders on Binance Futures Testnet.
-
-I made this project to understand how APIs work and how a basic trading system is structured. It uses command line input and has some basic validation and logging.
+## Trading Bot (Binance Futures Testnet)
 
 ---
 
@@ -93,7 +90,7 @@ Type: MARKET
 Quantity: 0.005
 
 Order placed successfully
-Order ID: 12345678
+Order ID: XXXXXXXX
 Status: FILLED
 
 ---

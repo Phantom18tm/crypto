@@ -13,4 +13,4 @@ def validate_order(currency, side, order_type, quantity, price):
         #code Test
         #  if __name__ == "__main__":
         #     validate_order("BTCUSDT", "BUY", "MARKET", 0.01, None)
-        #     print("Validation passed ✅")
+        #     print("Validation passed ")
